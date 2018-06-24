@@ -10,6 +10,7 @@
     <h1>Here and now begins prosperity</h1>
     <?php
         echo "<strong>Hello World - First PHP program</strong>";
+        echo "Hello Bruno - second echo";
     ?>
 </body>
 </html>
