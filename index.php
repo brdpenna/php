@@ -11,6 +11,7 @@
     <?php
         echo "<strong>Hello World - First PHP program</strong>";
         echo "Hello Bruno - second echo";
+        echo "Hello World.. I'm a man who brings solutions";
     ?>
 </body>
 </html>
