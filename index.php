@@ -9,7 +9,7 @@
 <body>
     <h1>Here and now begins prosperity</h1>
     <?php
-        echo "<strong>Hello World</strong> - First PHP program";
+        echo "<strong>Hello World - First PHP program</strong>";
     ?>
 </body>
 </html>
