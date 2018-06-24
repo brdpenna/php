@@ -12,6 +12,7 @@
         echo "<strong>Hello World - First PHP program</strong>";
         echo "Hello Bruno - second echo";
         echo "Hello World.. I'm a man who brings solutions";
+        echo "Ainda não entendi bem como funcionam os comandos";
     ?>
 </body>
 </html>
